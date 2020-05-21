@@ -1,0 +1,61 @@
+CIRCLE_R: 10   # 机器人以及动态障碍物的半径(假设都是圆)
+COLLISION_REWARD: -10     # 机器人发生碰撞的代价
+DYNAMIC_DEFAULT_COLOR:  # 动态障碍物的颜色
+- 0
+- 0
+- 255
+DYNAMIC_VISIBLE_R: 150  # 人的可视范围(假设是方形区域)的半径
+MAX_ATTRACTIVE: 707
+POINT_GOAL:  # 全局目标
+- 490
+- 10
+POINT_START:  # 全局起始点
+- 10
+- 250
+REACH_GOAL_REWARD: 100   # 机器人到达终点的奖励
+REACH_GOAL_THRESHOLD: 10   # 机器人到达终点的阈值
+ROBOT_COLOR:   # 机器人的颜色
+- 250
+- 250
+- 0
+ROBOT_CONTROL:  # key的ascii对应机器人的动作
+  97:
+  - -1
+  - 0
+  99:
+  - 1
+  - 1
+  100:
+  - 1
+  - 0
+  101:
+  - 1
+  - -1
+  113:
+  - -1
+  - -1
+  115:
+  - 0
+  - 1
+  119:
+  - 0
+  - -1
+  120:
+  - 0
+  - 0
+  122:
+  - -1
+  - 1
+ROBOT_SPEED: 5   # 机器人的速度
+ROBOT_VISIBLE_R: 200   # 机器人的可视范围(假设是方形区域)的半径
+STEP_REWARD: -0.005   # 机器人走一步的代价
+num_key:  # ascii - key 的对应关系
+  97: a
+  99: c
+  100: d
+  101: e
+  113: q
+  115: s
+  119: w
+  120: x
+  122: z

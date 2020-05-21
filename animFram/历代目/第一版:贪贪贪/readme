@@ -1,0 +1,24 @@
+这里意识到吸引力的作用太大了
+所以在下一个版本对apf_cul函数进行了修改
+原本是
+repulsive = mr.apf_static()[location[0],location[1]] + sum(mr.apf_dynamic(location))
+attractive = self.apf_goal(location,goal)
+return  attractive + repulsive
+现在对attractive进行归一化,因为最大的距离是707,即my_motion_roadmap.yaml中的MAX_ATTRACTIVE = 707
+所以attractive = self.apf_goal(location,goal)/MAX_ATTRACTIVE * OBSTACLE_MAX
+(此改动将在下一个文件夹(非贪贪贪文件夹)生效)
+---
+reward step collision point_num distance APFway
+59.4   110    4       150       150      3
+19.43  127    8       150       150      3 
+59.45  118    4       150       150      3 
+89.46  112    1       150       150      3 
+99.46  112    0       150       150      3 
+99.489 107    0       150       150      3 
+39.414 128    6       150       150      3 
+59.475 114    4       150       150      3 
+-10.57 130    11      150       150      3
+9.45   124    9       150       150      3
+69.475 113    3       150       150      3
+
+53.994 117    4.5455

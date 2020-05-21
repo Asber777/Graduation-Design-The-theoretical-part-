@@ -1,0 +1,502 @@
+APF_WAY: 3
+Collision_time: 4
+PRM_DISTANCE: 200
+PRM_POINT_NUM: 20
+Reward: 59.22499999999986
+Step_num: 164
+route:
+- !!python/tuple
+  - 10
+  - 250
+- !!python/tuple
+  - 15
+  - 245
+- !!python/tuple
+  - 20
+  - 240
+- !!python/tuple
+  - 25
+  - 235
+- !!python/tuple
+  - 30
+  - 230
+- !!python/tuple
+  - 35
+  - 225
+- !!python/tuple
+  - 40
+  - 220
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 50
+  - 210
+- !!python/tuple
+  - 55
+  - 205
+- !!python/tuple
+  - 60
+  - 200
+- !!python/tuple
+  - 60
+  - 195
+- !!python/tuple
+  - 60
+  - 190
+- !!python/tuple
+  - 60
+  - 185
+- !!python/tuple
+  - 60
+  - 180
+- !!python/tuple
+  - 60
+  - 175
+- !!python/tuple
+  - 60
+  - 170
+- !!python/tuple
+  - 60
+  - 165
+- !!python/tuple
+  - 60
+  - 160
+- !!python/tuple
+  - 60
+  - 155
+- !!python/tuple
+  - 60
+  - 150
+- !!python/tuple
+  - 60
+  - 145
+- !!python/tuple
+  - 60
+  - 140
+- !!python/tuple
+  - 60
+  - 135
+- !!python/tuple
+  - 60
+  - 130
+- !!python/tuple
+  - 60
+  - 125
+- !!python/tuple
+  - 60
+  - 120
+- !!python/tuple
+  - 65
+  - 115
+- !!python/tuple
+  - 60
+  - 120
+- !!python/tuple
+  - 55
+  - 125
+- !!python/tuple
+  - 55
+  - 130
+- !!python/tuple
+  - 55
+  - 135
+- !!python/tuple
+  - 55
+  - 140
+- !!python/tuple
+  - 60
+  - 145
+- !!python/tuple
+  - 60
+  - 140
+- !!python/tuple
+  - 60
+  - 135
+- !!python/tuple
+  - 60
+  - 130
+- !!python/tuple
+  - 60
+  - 125
+- !!python/tuple
+  - 60
+  - 120
+- !!python/tuple
+  - 60
+  - 115
+- !!python/tuple
+  - 65
+  - 110
+- !!python/tuple
+  - 70
+  - 105
+- !!python/tuple
+  - 75
+  - 100
+- !!python/tuple
+  - 80
+  - 95
+- !!python/tuple
+  - 85
+  - 90
+- !!python/tuple
+  - 90
+  - 85
+- !!python/tuple
+  - 95
+  - 85
+- !!python/tuple
+  - 100
+  - 85
+- !!python/tuple
+  - 105
+  - 85
+- !!python/tuple
+  - 110
+  - 85
+- !!python/tuple
+  - 115
+  - 80
+- !!python/tuple
+  - 120
+  - 75
+- !!python/tuple
+  - 125
+  - 70
+- !!python/tuple
+  - 130
+  - 65
+- !!python/tuple
+  - 130
+  - 60
+- !!python/tuple
+  - 130
+  - 55
+- !!python/tuple
+  - 130
+  - 50
+- !!python/tuple
+  - 130
+  - 45
+- !!python/tuple
+  - 130
+  - 40
+- !!python/tuple
+  - 135
+  - 35
+- !!python/tuple
+  - 140
+  - 30
+- !!python/tuple
+  - 145
+  - 25
+- !!python/tuple
+  - 150
+  - 25
+- !!python/tuple
+  - 155
+  - 25
+- !!python/tuple
+  - 160
+  - 25
+- !!python/tuple
+  - 165
+  - 30
+- !!python/tuple
+  - 170
+  - 35
+- !!python/tuple
+  - 175
+  - 40
+- !!python/tuple
+  - 180
+  - 40
+- !!python/tuple
+  - 185
+  - 45
+- !!python/tuple
+  - 190
+  - 50
+- !!python/tuple
+  - 195
+  - 50
+- !!python/tuple
+  - 200
+  - 50
+- !!python/tuple
+  - 205
+  - 50
+- !!python/tuple
+  - 210
+  - 50
+- !!python/tuple
+  - 215
+  - 50
+- !!python/tuple
+  - 220
+  - 50
+- !!python/tuple
+  - 225
+  - 50
+- !!python/tuple
+  - 230
+  - 45
+- !!python/tuple
+  - 235
+  - 40
+- !!python/tuple
+  - 240
+  - 35
+- !!python/tuple
+  - 245
+  - 35
+- !!python/tuple
+  - 250
+  - 40
+- !!python/tuple
+  - 255
+  - 45
+- !!python/tuple
+  - 260
+  - 50
+- !!python/tuple
+  - 265
+  - 45
+- !!python/tuple
+  - 270
+  - 45
+- !!python/tuple
+  - 275
+  - 45
+- !!python/tuple
+  - 280
+  - 50
+- !!python/tuple
+  - 285
+  - 55
+- !!python/tuple
+  - 290
+  - 60
+- !!python/tuple
+  - 295
+  - 65
+- !!python/tuple
+  - 300
+  - 70
+- !!python/tuple
+  - 305
+  - 65
+- !!python/tuple
+  - 310
+  - 60
+- !!python/tuple
+  - 315
+  - 55
+- !!python/tuple
+  - 320
+  - 50
+- !!python/tuple
+  - 325
+  - 45
+- !!python/tuple
+  - 330
+  - 40
+- !!python/tuple
+  - 335
+  - 40
+- !!python/tuple
+  - 340
+  - 40
+- !!python/tuple
+  - 345
+  - 40
+- !!python/tuple
+  - 350
+  - 40
+- !!python/tuple
+  - 355
+  - 35
+- !!python/tuple
+  - 360
+  - 35
+- !!python/tuple
+  - 365
+  - 35
+- !!python/tuple
+  - 370
+  - 35
+- !!python/tuple
+  - 375
+  - 30
+- !!python/tuple
+  - 375
+  - 35
+- !!python/tuple
+  - 375
+  - 40
+- !!python/tuple
+  - 370
+  - 45
+- !!python/tuple
+  - 370
+  - 50
+- !!python/tuple
+  - 365
+  - 55
+- !!python/tuple
+  - 360
+  - 60
+- !!python/tuple
+  - 355
+  - 65
+- !!python/tuple
+  - 350
+  - 70
+- !!python/tuple
+  - 345
+  - 75
+- !!python/tuple
+  - 340
+  - 80
+- !!python/tuple
+  - 335
+  - 85
+- !!python/tuple
+  - 330
+  - 90
+- !!python/tuple
+  - 325
+  - 85
+- !!python/tuple
+  - 320
+  - 80
+- !!python/tuple
+  - 315
+  - 75
+- !!python/tuple
+  - 315
+  - 70
+- !!python/tuple
+  - 320
+  - 65
+- !!python/tuple
+  - 325
+  - 60
+- !!python/tuple
+  - 330
+  - 55
+- !!python/tuple
+  - 335
+  - 55
+- !!python/tuple
+  - 340
+  - 50
+- !!python/tuple
+  - 345
+  - 45
+- !!python/tuple
+  - 350
+  - 40
+- !!python/tuple
+  - 355
+  - 45
+- !!python/tuple
+  - 355
+  - 50
+- !!python/tuple
+  - 350
+  - 45
+- !!python/tuple
+  - 345
+  - 40
+- !!python/tuple
+  - 340
+  - 35
+- !!python/tuple
+  - 345
+  - 30
+- !!python/tuple
+  - 350
+  - 25
+- !!python/tuple
+  - 355
+  - 20
+- !!python/tuple
+  - 360
+  - 15
+- !!python/tuple
+  - 365
+  - 15
+- !!python/tuple
+  - 370
+  - 15
+- !!python/tuple
+  - 375
+  - 15
+- !!python/tuple
+  - 380
+  - 15
+- !!python/tuple
+  - 385
+  - 15
+- !!python/tuple
+  - 390
+  - 15
+- !!python/tuple
+  - 395
+  - 15
+- !!python/tuple
+  - 400
+  - 10
+- !!python/tuple
+  - 405
+  - 5
+- !!python/tuple
+  - 410
+  - 5
+- !!python/tuple
+  - 415
+  - 5
+- !!python/tuple
+  - 420
+  - 5
+- !!python/tuple
+  - 425
+  - 5
+- !!python/tuple
+  - 430
+  - 5
+- !!python/tuple
+  - 435
+  - 5
+- !!python/tuple
+  - 440
+  - 5
+- !!python/tuple
+  - 445
+  - 5
+- !!python/tuple
+  - 450
+  - 5
+- !!python/tuple
+  - 455
+  - 5
+- !!python/tuple
+  - 460
+  - 5
+- !!python/tuple
+  - 465
+  - 5
+- !!python/tuple
+  - 470
+  - 5
+- !!python/tuple
+  - 475
+  - 5
+- !!python/tuple
+  - 480
+  - 5
+- !!python/tuple
+  - 485
+  - 5

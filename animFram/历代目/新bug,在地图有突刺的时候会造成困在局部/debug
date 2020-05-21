@@ -1,0 +1,11 @@
+the reason causing this problem
+is becuase
+DE2.apf_next_guide
+        for d in self.motion_direction:  # 选出梯度最大的那一个点
+            index_x = location[0] + d[0] 
+            index_y = location[1] + d[1] 
+
+需要改成
+        for d in self.motion_direction:  # 选出梯度最大的那一个点
+            index_x = location[0] + d[0] * CIRCLE_R
+            index_y = location[1] + d[1] * CIRCLE_R

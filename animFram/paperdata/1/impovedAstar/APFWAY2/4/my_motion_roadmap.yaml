@@ -1,0 +1,61 @@
+CIRCLE_R: 10
+COLLISION_REWARD: -10
+DYNAMIC_DEFAULT_COLOR:
+- 0
+- 0
+- 255
+DYNAMIC_VISIBLE_R: 150
+MAX_ATTRACTIVE: 707
+POINT_GOAL:
+- 490
+- 10
+POINT_START:
+- 10
+- 250
+REACH_GOAL_REWARD: 100
+REACH_GOAL_THRESHOLD: 10
+ROBOT_COLOR:
+- 250
+- 250
+- 0
+ROBOT_CONTROL:
+  97:
+  - -1
+  - 0
+  99:
+  - 1
+  - 1
+  100:
+  - 1
+  - 0
+  101:
+  - 1
+  - -1
+  113:
+  - -1
+  - -1
+  115:
+  - 0
+  - 1
+  119:
+  - 0
+  - -1
+  120:
+  - 0
+  - 0
+  122:
+  - -1
+  - 1
+ROBOT_SPEED: 5
+ROBOT_VISIBLE_R: 200
+STEP_REWARD: -0.005
+num_key:
+  97: a
+  99: c
+  100: d
+  101: e
+  113: q
+  115: s
+  119: w
+  120: x
+  122: z

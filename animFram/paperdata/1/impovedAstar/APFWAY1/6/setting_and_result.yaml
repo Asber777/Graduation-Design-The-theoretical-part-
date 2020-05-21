@@ -1,0 +1,910 @@
+APF_WAY: 1
+Collision_time: 0
+PRM_DISTANCE: 200
+PRM_POINT_NUM: 20
+Reward: -1.49999999999999
+Step_num: 300
+route:
+- !!python/tuple
+  - 25
+  - 190
+- !!python/tuple
+  - 25
+  - 195
+- !!python/tuple
+  - 30
+  - 200
+- !!python/tuple
+  - 35
+  - 205
+- !!python/tuple
+  - 40
+  - 210
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 40
+  - 220
+- !!python/tuple
+  - 45
+  - 220
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 75
+  - 225
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 65
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 210
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 40
+  - 210
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 40
+  - 210
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 45
+  - 210
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 210
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 210
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 40
+  - 220
+- !!python/tuple
+  - 45
+  - 220
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 210
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 230
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 210
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 210
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 230
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 210
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 210
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 50
+  - 210
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 220
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 75
+  - 225
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 230
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 225
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 230
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 210
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 215
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 70
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 70
+  - 225
+- !!python/tuple
+  - 65
+  - 230
+- !!python/tuple
+  - 65
+  - 225
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 215
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 215
+- !!python/tuple
+  - 40
+  - 220
+- !!python/tuple
+  - 45
+  - 220
+- !!python/tuple
+  - 50
+  - 220
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 70
+  - 220
+- !!python/tuple
+  - 65
+  - 220
+- !!python/tuple
+  - 60
+  - 215
+- !!python/tuple
+  - 55
+  - 215
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 210
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 45
+  - 210
+- !!python/tuple
+  - 50
+  - 215
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 60
+  - 225
+- !!python/tuple
+  - 55
+  - 220
+- !!python/tuple
+  - 60
+  - 220
+- !!python/tuple
+  - 65
+  - 225
